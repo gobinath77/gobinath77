@@ -1,4 +1,4 @@
-[![MasterHead](https://blog.aspiresys.com/wp-content/uploads/2019/05/4dimensions-of-DevOps.jpg)
+![MasterHead](https://blog.aspiresys.com/wp-content/uploads/2019/05/4dimensions-of-DevOps.jpg)
 <h1 align="center">Hi 👋, I'm Gobinath Manoharan</h1>
 <h3 align="center">DevOps Engineer</h3>
 <img align="right" alt="Coding" width="400" src="https://creintech.in/assets/img/devops/gif/devops-services.gif">
